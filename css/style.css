@@ -1,6 +1,26 @@
 .item img{
     width: 100%;
 }
+
+
+.div
+{
+    background: transparent; 
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+   
+}
+
+.div img
+{width: 100% ;
+}
+.boo{
+    margin-top: 40px;
+}
 .text-center{
     color: white;
+    border: black solid ;
+     border-radius: 4px ; 
+    
 }
