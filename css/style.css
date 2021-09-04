@@ -1,16 +1,15 @@
 .item img{
     width: 100%;
 }
-.text-center{
-    color: white;
-}
+
 
 .div
 {
-    background: transparent;
+    background: transparent; 
     display: inline-block;
     width: 33%;
     text-align: center;
+   
 }
 
 .div img
@@ -18,4 +17,10 @@
 }
 .boo{
     margin-top: 40px;
+}
+.text-center{
+    color: white;
+    border: black solid ;
+     border-radius: 5px ; 
+    
 }
